@@ -5,7 +5,6 @@
     <td><a href="https://github.com/Narutocc/mobile-share/issues/2">字符串、函数、数组、对象的扩展</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Narutocc/jQuery/issues/9">Moment.js</a></td>
-    <td><a href="https://github.com/Narutocc/functional-unit/issues/16"/>daterangepicker</td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/3">Promise && async</a></td>
   </tr>
 </table>
