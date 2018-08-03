@@ -13,6 +13,6 @@
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/4">手机版本兼容脚本</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/2">字符串、函数、数组、对象的扩展</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/5">强制手机浏览器竖屏</a></td>
   </tr>
 </table>
