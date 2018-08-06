@@ -24,6 +24,6 @@
 <table>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/7">animate.css</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/8"></a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/8">html2canvas</a></td>
   </tr>
 </table>
