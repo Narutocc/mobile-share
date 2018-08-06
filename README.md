@@ -23,6 +23,10 @@
     <td><a href="https://github.com/Narutocc/mobile-share/issues/10">CSS3</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/11">sass语法</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/12">判断机型</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/13">兼容</a></td>
+  </tr>
 </table>
 
 <div>插件</div>
