@@ -29,7 +29,10 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/14">盒模型</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/15">兼容</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/15">flex容器</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/16">盒模型</a></td>
   </tr>
 </table>
 
