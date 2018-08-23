@@ -27,6 +27,10 @@
     <td><a href="https://github.com/Narutocc/mobile-share/issues/12">判断机型</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/13">兼容</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/14">盒模型</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/15">兼容</a></td>
+  </tr>
 </table>
 
 <div>插件</div>
