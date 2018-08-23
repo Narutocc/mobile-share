@@ -32,7 +32,7 @@
     <td><a href="https://github.com/Narutocc/mobile-share/issues/15">flex容器</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/16">盒模型</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/16">移动端六位验证码布局实现</a></td>
   </tr>
 </table>
 
