@@ -36,6 +36,9 @@
     <td><a href="https://github.com/Narutocc/mobile-share/issues/16">移动端六位验证码布局实现</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/17">常规CSS（移动端）</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/20">移动端解决弹窗显示后底层页面滚动问题</a></td>
+  </tr>
 </table>
 
 <div>插件</div>
