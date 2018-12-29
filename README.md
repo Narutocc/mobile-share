@@ -33,6 +33,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/16">移动端六位验证码布局实现</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/17">常规CSS（移动端）</a></td>
   </tr>
 </table>
 
