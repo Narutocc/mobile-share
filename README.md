@@ -6,6 +6,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/3">Promise && async</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/18">数据类型</a></td>
   </tr>
 </table>
 
