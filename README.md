@@ -38,6 +38,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/20">移动端解决弹窗显示后底层页面滚动问题</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/22">阿里云OSS图片处理</a></td>
   </tr>
 </table>
 
