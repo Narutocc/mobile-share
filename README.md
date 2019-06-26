@@ -1,6 +1,6 @@
 issues | issues
 -|-|
-[H5视频 - video](https://github.com/Narutocc/mobile-share/issues/24)|[QQ浏览器劫持html5视频video标签](https://github.com/Narutocc/mobile-share/issues/23)
+[H5视频 - video](https://github.com/Narutocc/mobile-share/issues/24)|[video兼容问题](https://github.com/Narutocc/mobile-share/issues/23)
 
 <div>ES6</div>
 <table>
