@@ -5,7 +5,6 @@ issues | issues
 
 <div>ES6</div>
 
-issues | issues
 -|-|
 [let && const](https://github.com/Narutocc/mobile-share/issues/1)|[字符串、函数、数组、对象的扩展](https://github.com/Narutocc/mobile-share/issues/2)
 [Promise && async](https://github.com/Narutocc/mobile-share/issues/3)|[数据类型](https://github.com/Narutocc/mobile-share/issues/18)
