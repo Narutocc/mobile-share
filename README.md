@@ -13,6 +13,9 @@ issues | issues
     <td><a href="https://github.com/Narutocc/mobile-share/issues/3">Promise && async</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/18">数据类型</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/28">常用</a></td>
+  </tr>
 </table>
 
 <div>CSS</div>
