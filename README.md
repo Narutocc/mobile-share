@@ -5,24 +5,11 @@ issues | issues
 
 <div>ES6</div>
 
+issues | issues
 -|-|
 [let && const](https://github.com/Narutocc/mobile-share/issues/1)|[字符串、函数、数组、对象的扩展](https://github.com/Narutocc/mobile-share/issues/2)
 [Promise && async](https://github.com/Narutocc/mobile-share/issues/3)|[数据类型](https://github.com/Narutocc/mobile-share/issues/18)
 [常用](https://github.com/Narutocc/mobile-share/issues/28)|
-
-<table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/1">let && const</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/2">字符串、函数、数组、对象的扩展</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/3">Promise && async</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/18">数据类型</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/28">常用</a></td>
-  </tr>
-</table>
 
 <div>CSS</div>
 <table>
