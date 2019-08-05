@@ -53,15 +53,3 @@ issues | issues
 -|-|
 [animate.css](https://github.com/Narutocc/mobile-share/issues/7)|[html2canvas](https://github.com/Narutocc/mobile-share/issues/8)
 [weixin-js-sdk](https://github.com/Narutocc/mobile-share/issues/19)|[移动端调试vconsole](https://github.com/Narutocc/mobile-share/issues/29)
-
-<div>插件</div>
-<table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/7">animate.css</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/8">html2canvas</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/19">weixin-js-sdk</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/29">移动端调试vconsole</a></td>
-  </tr>
-</table>
