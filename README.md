@@ -47,6 +47,13 @@ issues | issues
   </tr>
 </table>
 
+插件
+
+issues | issues
+-|-|
+[animate.css](https://github.com/Narutocc/mobile-share/issues/7)|[html2canvas](https://github.com/Narutocc/mobile-share/issues/8)
+[weixin-js-sdk](https://github.com/Narutocc/mobile-share/issues/19)|[移动端调试vconsole](https://github.com/Narutocc/mobile-share/issues/29)
+
 <div>插件</div>
 <table>
   <tr>
