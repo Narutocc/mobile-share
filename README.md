@@ -55,5 +55,6 @@ issues | issues
   </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/19">weixin-js-sdk</a></td>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/29">移动端调试vconsole</a></td>
   </tr>
 </table>
