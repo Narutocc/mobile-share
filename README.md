@@ -47,6 +47,9 @@ issues | issues
     <td><a href="https://github.com/Narutocc/mobile-share/issues/22">阿里云OSS图片处理</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/26">移动端input与软键盘</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Narutocc/mobile-share/issues/34">横向滚动</a></td>
+  </tr>
 </table>
 
 插件
