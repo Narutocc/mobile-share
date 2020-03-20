@@ -11,7 +11,7 @@ issues | issues
 [let && const](https://github.com/Narutocc/mobile-share/issues/1)|[字符串、函数、数组、对象的扩展](https://github.com/Narutocc/mobile-share/issues/2)
 [Promise && async](https://github.com/Narutocc/mobile-share/issues/3)|[数据类型](https://github.com/Narutocc/mobile-share/issues/18)
 [常用](https://github.com/Narutocc/mobile-share/issues/28)|[利用一个对象给另外一个对象赋值](https://github.com/Narutocc/mobile-share/issues/30)
-[filter()](https://github.com/Narutocc/mobile-share/issues/31)
+[filter()](https://github.com/Narutocc/mobile-share/issues/31)|[ES6 class类](https://github.com/Narutocc/mobile-share/issues/33)
 
 <div>CSS</div>
 <table>
