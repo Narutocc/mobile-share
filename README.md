@@ -3,6 +3,7 @@ issues | issues
 [H5视频 - video](https://github.com/Narutocc/mobile-share/issues/24)|[video兼容问题](https://github.com/Narutocc/mobile-share/issues/23)
 [H5音频 - audio](https://github.com/Narutocc/mobile-share/issues/25)|[动画系列~卡片翻转](https://github.com/Narutocc/mobile-share/issues/27)
 [图片、音视频加载](https://github.com/Narutocc/mobile-share/issues/32)|[移动端自适应---sass](https://github.com/Narutocc/mobile-share/issues/35)
+[动画系列--闯关进度](https://github.com/Narutocc/mobile-share/issues/36)
 
 <div>ES6</div>
 
