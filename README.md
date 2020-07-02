@@ -13,7 +13,7 @@ issues | issues
 [Promise && async](https://github.com/Narutocc/mobile-share/issues/3)|[数据类型](https://github.com/Narutocc/mobile-share/issues/18)
 [常用](https://github.com/Narutocc/mobile-share/issues/28)|[利用一个对象给另外一个对象赋值](https://github.com/Narutocc/mobile-share/issues/30)
 [filter()](https://github.com/Narutocc/mobile-share/issues/31)|[ES6 class类](https://github.com/Narutocc/mobile-share/issues/33)
-[简易获取对象中的值](https://github.com/Narutocc/mobile-share/issues/38)
+[简易获取对象中的值](https://github.com/Narutocc/mobile-share/issues/37)
 
 <div>CSS</div>
 <table>
