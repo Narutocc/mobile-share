@@ -5,7 +5,7 @@ issues | issues
 [图片、音视频加载](https://github.com/Narutocc/mobile-share/issues/32)|[移动端自适应---sass](https://github.com/Narutocc/mobile-share/issues/35)
 [动画系列--闯关进度](https://github.com/Narutocc/mobile-share/issues/36)
 
-<div>ES6</div>
+ES6
 
 issues | issues
 -|-|
@@ -16,12 +16,13 @@ issues | issues
 [ES6 class类](https://github.com/Narutocc/mobile-share/issues/33)|[Class语法糖](https://github.com/Narutocc/mobile-share/issues/38)
 [简易获取对象中的值](https://github.com/Narutocc/mobile-share/issues/37)|
 
-<div>CSS</div>
+CSS
+
+issues | issues
+-|-|
+[手机版本兼容脚本](https://github.com/Narutocc/mobile-share/issues/4)|[强制手机浏览器竖屏](https://github.com/Narutocc/mobile-share/issues/5)
+
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/4">手机版本兼容脚本</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/5">强制手机浏览器竖屏</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/6">transform & transition & animation</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/9">css 路径data:image/png;base64的用法详解</a></td>
