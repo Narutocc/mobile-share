@@ -21,12 +21,9 @@ CSS
 issues | issues
 -|-|
 [手机版本兼容脚本](https://github.com/Narutocc/mobile-share/issues/4)|[强制手机浏览器竖屏](https://github.com/Narutocc/mobile-share/issues/5)
+[transform & transition & animation](https://github.com/Narutocc/mobile-share/issues/6)|[css 路径data:image/png;base64的用法详解](https://github.com/Narutocc/mobile-share/issues/9)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/6">transform & transition & animation</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/9">css 路径data:image/png;base64的用法详解</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/10">CSS3</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/11">sass语法</a></td>
