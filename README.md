@@ -23,12 +23,9 @@ issues | issues
 [手机版本兼容脚本](https://github.com/Narutocc/mobile-share/issues/4)|[强制手机浏览器竖屏](https://github.com/Narutocc/mobile-share/issues/5)
 [transform & transition & animation](https://github.com/Narutocc/mobile-share/issues/6)|[css 路径data:image/png;base64的用法详解](https://github.com/Narutocc/mobile-share/issues/9)
 [CSS3](https://github.com/Narutocc/mobile-share/issues/10)|[sass语法](https://github.com/Narutocc/mobile-share/issues/11)
+[判断机型](https://github.com/Narutocc/mobile-share/issues/12)|[兼容](https://github.com/Narutocc/mobile-share/issues/13)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/12">判断机型</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/13">兼容</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/14">盒模型</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/15">flex容器</a></td>
