@@ -24,12 +24,9 @@ issues | issues
 [transform & transition & animation](https://github.com/Narutocc/mobile-share/issues/6)|[css 路径data:image/png;base64的用法详解](https://github.com/Narutocc/mobile-share/issues/9)
 [CSS3](https://github.com/Narutocc/mobile-share/issues/10)|[sass语法](https://github.com/Narutocc/mobile-share/issues/11)
 [判断机型](https://github.com/Narutocc/mobile-share/issues/12)|[兼容](https://github.com/Narutocc/mobile-share/issues/13)
+[盒模型](https://github.com/Narutocc/mobile-share/issues/14)|[flex容器](https://github.com/Narutocc/mobile-share/issues/15)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/14">盒模型</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/15">flex容器</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/16">移动端六位验证码布局实现</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/17">常规CSS（移动端）</a></td>
