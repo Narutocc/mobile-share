@@ -25,12 +25,9 @@ issues | issues
 [CSS3](https://github.com/Narutocc/mobile-share/issues/10)|[sass语法](https://github.com/Narutocc/mobile-share/issues/11)
 [判断机型](https://github.com/Narutocc/mobile-share/issues/12)|[兼容](https://github.com/Narutocc/mobile-share/issues/13)
 [盒模型](https://github.com/Narutocc/mobile-share/issues/14)|[flex容器](https://github.com/Narutocc/mobile-share/issues/15)
+[移动端六位验证码布局实现](https://github.com/Narutocc/mobile-share/issues/16)|[常规CSS（移动端）](https://github.com/Narutocc/mobile-share/issues/17)
 
 <table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/16">移动端六位验证码布局实现</a></td>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/17">常规CSS（移动端）</a></td>
-  </tr>
   <tr>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/20">移动端解决弹窗显示后底层页面滚动问题</a></td>
     <td><a href="https://github.com/Narutocc/mobile-share/issues/21">解决部分ios弹窗内容不能滚动的问题</a></td>
