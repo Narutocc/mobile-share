@@ -28,12 +28,7 @@ issues | issues
 [移动端六位验证码布局实现](https://github.com/Narutocc/mobile-share/issues/16)|[常规CSS（移动端）](https://github.com/Narutocc/mobile-share/issues/17)
 [移动端解决弹窗显示后底层页面滚动问题](https://github.com/Narutocc/mobile-share/issues/20)|[解决部分ios弹窗内容不能滚动的问题](https://github.com/Narutocc/mobile-share/issues/21)
 [阿里云OSS图片处理](https://github.com/Narutocc/mobile-share/issues/22)|[移动端input与软键盘](https://github.com/Narutocc/mobile-share/issues/26)
-
-<table>
-  <tr>
-    <td><a href="https://github.com/Narutocc/mobile-share/issues/34">横向滚动</a></td>
-  </tr>
-</table>
+[横向滚动](https://github.com/Narutocc/mobile-share/issues/34)
 
 插件
 
